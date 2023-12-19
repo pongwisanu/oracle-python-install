@@ -1,1 +1,1 @@
-cx-oracle==5.3
+cx-oracle==8
